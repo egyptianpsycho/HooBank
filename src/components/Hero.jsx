@@ -28,7 +28,7 @@ const Hero = () => {
           </div>
         </div>
         <h1 className=" font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">
-          Payment Method
+          Payment Method.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Our team of experts use a methodology to identify the credit cards most likely to fit your needs. We examine annual percentage rates, annual fees.
